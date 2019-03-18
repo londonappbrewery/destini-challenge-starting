@@ -1,16 +1,15 @@
-# destini_challenge_starting
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-A new Flutter application.
 
-## Getting Started
+# Destini 🤔
 
-This project is a starting point for a Flutter application.
+## Our Goal
 
-A few resources to get you started if this is your first Flutter project:
+In this challenge, you will be building a choose your own adventure game like Bandersnatch. In the process, you should apply your knowledge from the last module (Quizzler) to use Dart OOP principles to build a well organised project.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/Destini.gif)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
