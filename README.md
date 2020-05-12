@@ -1,3 +1,5 @@
+![Dart CI](https://github.com/LaloCo/destini-challenge-starting/workflows/Dart%20CI/badge.svg?branch=master)
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
