@@ -13,9 +13,6 @@ jobs:
     name: Flutter Build
     runs-on: ubuntu-latest
 
-    container:
-      image:  google/dart:latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Check project
