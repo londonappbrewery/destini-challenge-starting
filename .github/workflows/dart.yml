@@ -11,7 +11,7 @@ on:
 jobs:
   build:
     name: Flutter Build
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     container:
       image:  google/dart:latest
